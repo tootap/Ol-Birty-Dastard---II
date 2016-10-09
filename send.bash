@@ -1,3 +1,4 @@
+#!/bin/bash
 # Autosend data when connecting to internet
 # Setup ssh key first
 sleep 300
